@@ -1,0 +1,6 @@
+{
+  "name": "StudyNote",
+  "description": "Smart study notes app with nested syllabus topics, full-screen rich formatting markdown editor, topic outlines, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
